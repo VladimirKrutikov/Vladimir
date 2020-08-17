@@ -30,7 +30,7 @@ h2 {
 .p {}
 
 TABLE {
-    width: 300px; /* Ширина таблицы */
+    width: 500px; /* Ширина таблицы */
     border: 2px solid black; /* Рамка вокруг таблицы */
     background: #778899; /* Цвет фона */
     color: white; /* Цвет текста */
