@@ -30,7 +30,7 @@ h2 {
 .p {}
 
 TABLE {
-    width: 500px; /* Ширина таблицы */
+    width: 100%; /* Ширина таблицы */
     border: 2px solid black; /* Рамка вокруг таблицы */
     background: #778899; /* Цвет фона */
     color: white; /* Цвет текста */
@@ -38,6 +38,7 @@ TABLE {
    TD, TH {
     text-align: center; /* Выравнивание по центру */
     padding: 3px; /* Поля вокруг текста */
+	border-bottom: 4px double black; /* Двойная линия снизу */
    }
    TH {
     color: white; /* Цвет текста */
